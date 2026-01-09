@@ -3,3 +3,6 @@ versioonihalduse süsteemi Git abil. GitHubi kasutavad arendajad, ettevõtted,
 õppeasutused ja avatud lähtekoodiga projektide loojad koostöö tegemiseks.
 Edaspidi saan GitHubi kasutada oma koolitööde, programmeerimisprojektide
 ja meeskonnatöö failide haldamiseks ning varundamiseks.
+GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstrath,
+PJ Hyett ja Scott Chacon. GitHubi teenus oli avalikult kättesaadav alates
+2008. aastast ning sellest on saanud üks populaarsemaid arendusplatvorme maailmas.
